@@ -1,2 +1,2 @@
-# doc
+# aoc
 Advent of Code
